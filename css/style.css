@@ -1,19 +1,16 @@
-
 html,
 body {
   width: 100%;
   height: 100%;
-  font-family: 'Nunito', sans-serif !important;
+  font-family: "Nunito", sans-serif !important;
   /* font-size: 50px !important; */
 }
 
-.text-fastgi{
-    color: #7120EA !important;
-    font-family: 'Nunito', sans-serif !important;
-    
+.text-fastgi {
+  color: #7120ea !important;
+  font-family: "Nunito", sans-serif !important;
 }
 
 body {
-    font-family: 'Nunito', sans-serif !important;
-  }
-  
+  font-family: "Nunito", sans-serif !important;
+}
